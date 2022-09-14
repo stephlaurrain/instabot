@@ -1,0 +1,6 @@
+src/chromeprofile
+src/log
+__pycache__/
+tampermonkey
+.vscode/settings.json
+src/data/conf/default.json

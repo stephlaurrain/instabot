@@ -1,0 +1,12 @@
+alias python="python3"
+python --version
+
+VOIR
+pip3
+
+sur supra
+sudo apt install python3-pip
+pip3 install SQLAlchemy
+
+
+syncd -rsyncssh /media/steph/SSD-dev/DEVPRO/Python/BotOThon/master pi@192.168.1.66 /home/pi/botothon/
